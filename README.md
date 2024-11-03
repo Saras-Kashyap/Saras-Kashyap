@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Saras-Kashyap
 - 👀 I’m interested in ... learning new tech 
-- 🌱 I’m currently learning ... c++
+- 🌱 I’m currently learning ... JavaScript
+-  i have learnd C , C++ , PYTHON , HTML , CSS
 - 💞️ I’m looking to collaborate on ...code project
 - 📫 How to reach me ... saraskashyap88@gmail.com
 - 😄 Pronouns: ...
