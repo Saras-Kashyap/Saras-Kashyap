@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Saras Kumar Golu! 👋
-- I'm a 2nd-year Artificial Intelligence and Machine Learning student I love the "build it from scratch" mentality, from training LLMs to engineering robotics.
+- I'm a 3rd-year Artificial Intelligence and Machine Learning student I love the "build it from scratch" mentality, from training LLMs to engineering robotics.
 - 👀 I’m interested in ... learning new tech 
 - 🌱 I’m currently learning ... DSA
 -  i have learnd C , C++ , PYTHON , HTML , CSS
